@@ -6,3 +6,6 @@
 Thumbs.db
 data/raw/
 data/clean/
+
+data/backup/
+data/repro_test/
